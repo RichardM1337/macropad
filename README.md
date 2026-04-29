@@ -28,3 +28,4 @@ I used QMK for the macropad's firmware. I made the 5 keys have productivity enha
 |4|M3x16mm Screws|https://accu-components.com/us/metric-cap-head-screws/3822-SSCF-M3-16-A2?srsltid=AfmBOop6K_4plw_Z9O1RUv1B5p-NnPDPHdZk4CypNsCyyPLQcBvUpQZs|
 |5|MX-Style Switches|https://mechanicalkeyboards.com/products/cherry-mx-blue-60g-clicky?variant=48007305003308&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooLWB1cQSYnyB0cPi6i3iMJLBsXu-NKrlc5z8O5IFLtwBtzYG9nT6s|
 |5|White Blank DSA Keycaps|https://www.adafruit.com/product/4998?srsltid=AfmBOorCD8XMgbDWvV6vtG266_8ozohsP-0gxKIEfWXDAyuclgszwk92|
+|6|PCB Estimated Price|$2.15|
